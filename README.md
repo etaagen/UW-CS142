@@ -4,6 +4,6 @@ Self paced University of Washington [CSE 142: Computer Programming I](https://co
 
 ## 📚 Table of Contents  
 
-- [Lecture Examples](#-)
-- [Section Exercises](#-)
-- [Homework](#-)
+- [Lecture Examples](https://github.com/etaagen/UW-CS142/tree/main/Lecture%20examples)
+- [Section Exercises](https://github.com/etaagen/UW-CS142/tree/main/Sections)
+- [Homework](https://github.com/etaagen/UW-CS142/tree/main/Homework)
